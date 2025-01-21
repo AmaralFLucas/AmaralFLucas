@@ -2,7 +2,7 @@
 
 🇧🇷 Em Português:
 
-📖 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no quarto período, apaixonado por tecnologia.
+📖 Sou formado em Análise e Desenvolvimento de Sistemas, atualmente no quarto período, apaixonado por tecnologia.
 
 💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java.
 
@@ -10,7 +10,7 @@
 
 🇺🇸 In English:
 
-📖 Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding.
+📖 Hello there! I'm a Software Analysis and Development, deeply passionate about technology and coding.
 
 💼 Currently, my main focus lies in refining my skills in Python and Java.
 
