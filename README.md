@@ -2,19 +2,24 @@
 
 🇧🇷 Em Português:
 
-📖 Sou formado em Análise e Desenvolvimento de Sistemas, atualmente no quarto período, apaixonado por tecnologia.
+📖 Sou formado em Análise e Desenvolvimento de Sistemas.
 
-💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java.
+💼 Atualmente trabalho na Doutor-IE como Front-end, desenvolvendo aplicações em Flutter.
 
 📧 Sinta-se à vontade para enviar suas perguntas, comentários ou oportunidades de colaboração para lucasamaralfarias1602@gamail.com.
 
 🇺🇸 In English:
 
-📖 Hello there! I'm a Software Analysis and Development, deeply passionate about technology and coding.
+📖 Hello there! I'm a Software Analysis and Development.
 
-💼 Currently, my main focus lies in refining my skills in Python and Java.
+💼 I currently work at Doutor-IE as Front-end, developing applications in Flutter.
 
 📧 Please feel free to reach out with any questions, comments, or collaboration opportunities to lucasamaralfarias1602@gamail.com.
+
+Languages:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 
 <div>
 <a href="https://github.com/amaralflucas">
