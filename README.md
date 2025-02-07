@@ -18,8 +18,8 @@
 
 <div>
 <a href="https://github.com/amaralflucas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralflucas&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amaralflucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralflucas&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amaralflucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <!---
