@@ -20,12 +20,6 @@ Languages and Frameworks:
 
 <img height="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
-<div>
-<a href="https://github.com/amaralflucas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralflucas&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amaralflucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
 <!---
 AmaralFLucas/AmaralFLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
